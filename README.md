@@ -1,1 +1,1 @@
-# VHDL ile Multiplexer tasarımı
+# VHDL ile devre tasarımı
