@@ -1,2 +1,1 @@
-# vhdl
-logic desing with VHDL
+# VHDL ile Multiplexer tasarımı
